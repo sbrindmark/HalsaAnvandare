@@ -1,0 +1,14 @@
+C:\Users\sebas\source\repos\HalsaAnvandare\bin\Debug\net8.0\HalsaAnvandare.exe
+C:\Users\sebas\source\repos\HalsaAnvandare\bin\Debug\net8.0\HalsaAnvandare.deps.json
+C:\Users\sebas\source\repos\HalsaAnvandare\bin\Debug\net8.0\HalsaAnvandare.runtimeconfig.json
+C:\Users\sebas\source\repos\HalsaAnvandare\bin\Debug\net8.0\HalsaAnvandare.dll
+C:\Users\sebas\source\repos\HalsaAnvandare\bin\Debug\net8.0\HalsaAnvandare.pdb
+C:\Users\sebas\source\repos\HalsaAnvandare\obj\Debug\net8.0\HalsaAnvandare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\HalsaAnvandare\obj\Debug\net8.0\HalsaAnvandare.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\HalsaAnvandare\obj\Debug\net8.0\HalsaAnvandare.AssemblyInfo.cs
+C:\Users\sebas\source\repos\HalsaAnvandare\obj\Debug\net8.0\HalsaAnvandare.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\HalsaAnvandare\obj\Debug\net8.0\HalsaAnvandare.dll
+C:\Users\sebas\source\repos\HalsaAnvandare\obj\Debug\net8.0\refint\HalsaAnvandare.dll
+C:\Users\sebas\source\repos\HalsaAnvandare\obj\Debug\net8.0\HalsaAnvandare.pdb
+C:\Users\sebas\source\repos\HalsaAnvandare\obj\Debug\net8.0\HalsaAnvandare.genruntimeconfig.cache
+C:\Users\sebas\source\repos\HalsaAnvandare\obj\Debug\net8.0\ref\HalsaAnvandare.dll
